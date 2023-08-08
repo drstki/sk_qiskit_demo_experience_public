@@ -12,7 +12,7 @@ You can find more information about Qiskit on the [Qiskit community page](https:
 
 Qiskit also provides programming examples in tutorials in different contexts (e.g. optimization, machine-learning). This repository is giving you a couple of illustrative quantum algorithm examples that I built to enhance these existing tutorials. The purpose of my examples is to give you a more instructive and practical approach to basic quantum algorithms, to explain in more detail the context of a use case and what steps are necessary to transform the problem so that it can be run on a quantum computer.
 
-Hope you find them useful. Of course, my examples are open-soure and provided on as-is basis (I provide no support error, debugging or Q&A):
+Hope you find them useful. Of course, my examples are open-soure and provided on as-is basis (I provide no error support, debugging or Q&A):
 
 Following examples are provided:
 
