@@ -19,3 +19,5 @@ Following examples are provided:
 1. Getting started with Qiskit and Qiskit runtime: Starting with simple programming task, building circuits, using primitives sampler & estimator, looking at dynamic circuits.
 
 2. VQE with Qiskit runtime: Solving a simple QUBO problem (max-cut) illustratively by using Qiskit and Qiskit Runtime.
+
+3. qke_with_qiskit_runtime: Quantum Kernel Estimate (QKE) is used with an illustrative example of a mchine learning classification with SVC.
