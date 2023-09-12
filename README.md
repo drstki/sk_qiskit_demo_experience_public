@@ -12,6 +12,8 @@ You can find more information about Qiskit on the [Qiskit community page](https:
 
 Qiskit also provides programming examples in tutorials in different contexts (e.g. optimization, machine-learning). This repository is giving you a couple of illustrative quantum algorithm examples that I built to enhance these existing tutorials. The purpose of my examples is to give you a more instructive and practical approach to basic quantum algorithms, to explain in more detail the context of a use case and what steps are necessary to transform the problem so that it can be run on a quantum computer.
 
+The qiskit environment can be set up on local workstation in a virtual python environment (see [Qiskit documentation](https://qiskit.org/documentation/index.html) or you can use the [IBM Quantum Lab](https://lab.quantum-computing.ibm.com/) which provides you Qiskit in browser. In some examples you need to install some necessary software packages (e.g. tensorflow) which is possible in Quantum Lab as well by using the console app in the launcher tab.
+
 Hope you find them useful. Of course, my examples are open-soure and provided on as-is basis (I provide no error support, debugging or Q&A):
 
 Following examples are provided:
@@ -19,5 +21,3 @@ Following examples are provided:
 1. Getting started with Qiskit and Qiskit runtime: Starting with simple programming task, building circuits, using primitives sampler & estimator, looking at dynamic circuits.
 
 2. VQE with Qiskit runtime: Solving a simple QUBO problem (max-cut) illustratively by using Qiskit and Qiskit Runtime.
-
-3. qke_with_qiskit_runtime: Quantum Kernel Estimate (QKE) is used with an illustrative example of a mchine learning classification with SVC.
